@@ -1,4 +1,4 @@
-# Quiz Web Html (1)
+# Quiz Web Html
 
 This repository contains the source code and documentation for a university project developed using Html. The project is aimed at implementing a all basic function in Html. The implementation is based on from lecturer. The project source code is organized into some folder and file.
 
